@@ -1,7 +1,11 @@
 #include<iostream>
 using namespace std;
-int main()
+void main()
 {
 cout<<"HELLO !!!!";
-return 0;
+
+}
+double square (double innum)
+{
+  
 }
